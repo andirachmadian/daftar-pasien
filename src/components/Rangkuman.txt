@@ -1,0 +1,18 @@
+Rangkuman
+
+- Class Component
+- Function Component
+- JSX
+- Props
+- Children
+- State
+- useState
+- Parent Child
+- Event Handling
+- Memanipulasi state
+- useState
+- Destructuring Javascript ES6
+- Two way binding
+- useEffect
+- Cara render list data
+
